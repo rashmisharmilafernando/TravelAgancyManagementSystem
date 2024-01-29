@@ -1,9 +1,5 @@
 # Travel Agency Management System
 
-## Overview
-
-This Travel Agency Management System is a comprehensive solution for managing various aspects of a travel agency's operations. From customer bookings to itinerary planning, this system is built to streamline the workflow and enhance the overall efficiency of the travel agency.
-
 ## Tech Stack
 
 ### Front End
